@@ -1,2 +1,2 @@
 # iphone11propartner
-my name is anmol
+my name is anmol singh
