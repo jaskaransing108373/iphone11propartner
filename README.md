@@ -1,2 +1,4 @@
 # iphone11propartner
-my name is anmol ghgh
+<<<<<<< HEAD
+my name is anmol singh
+
